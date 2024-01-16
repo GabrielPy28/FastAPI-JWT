@@ -1,5 +1,5 @@
 # FastAPI with Authentication JSON Web Tokens (JWT)
-> Example app to easily add token-based authentication to your ![FastAPI](https://fastapi.tiangolo.com) applications. ![JWT tokens](https://jwt.io) are a secure and efficient way to authenticate users in modern web applications.
+> Example app to easily add token-based authentication to your [FastAPI](https://fastapi.tiangolo.com) applications. [JWT tokens](https://jwt.io) are a secure and efficient way to authenticate users in modern web applications.
 >
 > ![FastAPI-JWT](https://th.bing.com/th/id/OIG.Aj5rWjqmYWxvDshIjqmU?pid=ImgGn)
 
